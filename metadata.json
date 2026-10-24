@@ -1,0 +1,8 @@
+{
+  "name": "Remix RentFlow - Landlord \u0026 Tenant Portal",
+  "description": "Comprehensive property rental, booking, landlord admin management, and tenant portal with unique login IDs, countdowns, and rent payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
